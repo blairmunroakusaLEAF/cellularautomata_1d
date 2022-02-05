@@ -7,7 +7,7 @@
 A newjack's first Rust program,
 basic 1D cellular automata simulator.
 
-a sample simulation, 1000 cells, 1000 timesteps, rule 22, three seeds
+Here's a sample simulation, 1000 cells, 1000 timesteps, rule 22, three seeds:
 ![a sample simulation, 1000 cells, 1000 timesteps, rule 22, three seeds](./CAsimulationPlotEG.png)
 
 ```

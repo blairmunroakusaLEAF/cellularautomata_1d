@@ -1,5 +1,7 @@
 # ignore
 
-*.swp
+*-[
+]-*
 
-/target
+*.swp
+.DS_STORE
